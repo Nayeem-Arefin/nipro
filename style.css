@@ -1,0 +1,30 @@
+
+//using .slider function in css you can grab the slider section and decide
+its background colour. First we'll take a slider, then the container
+function is for the recetangle and then the row function would decide
+how many columns it would take to  
+.slider {
+background-image:url(banner.jpg);
+background-repeat: no-repeat ;
+background-size: cover;
+background-position: bottom center ;
+min-height: 70px; 
+}
+.s_item {
+margin:200px 0 200px;
+}
+.c_padd{
+padding-bottom: 100px;
+}
+.service {
+
+}
+.c_pipe{
+	width: 4 px;
+	height: 60px;
+	background-color: palevioletred;	
+}
+.ser_item {
+padding: 55px 15px 35px;
+border: 1px solid black;
+}
